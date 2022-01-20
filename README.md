@@ -1,3 +1,3 @@
 # git-tutorial
-this is git tutorial
-this is just trail for uploading code
+this is git tutorial.
+It is just trail for uploading code.
